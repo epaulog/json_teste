@@ -1,0 +1,34 @@
+{
+    "castas": [
+                {
+                    "nome": "Pinot Grigio"	
+					"descricao": "É uma variedade originária da Bourgogne, França. Possui película de cor “cinza”, podendo ser mais intensa nas regiões meridionais. Amadurece quase na mesma época que a Pinot Noir. É uma variedade relativamente vigorosa, mas não muito produtiva. É adaptada a solos profundos, secos e bem expostos. Adapta-se bem ao frio, mas é sensível à podridão cinzenta e ao míldio. Possui cachos e bagas pequenos ou muito pequenos. O vinho resultande é branco, possante e encorpado." 
+					"Descritores aromáticos": "frutas de polpas brancas, melão e pêssego."
+                },
+                {
+                    "nome": "Sauvignon Blanc"
+					"descricao": "Provavelmente provenha das regiões centrais ou do sudeste da França. Tem cachos e bagas pequenos. Os vinhos vinhos são secos, elegantes, finos e típicos. Pode ser utilizada para a elaboração de vinho licoroso de grande qualidade, como os botritizados." 
+					"Descritores aromáticos": "vegetal, frutado – citrus, damasco, pêssego, avelã, maracujá – floral e manteiga."
+                },
+				{
+					"nome": "Chardonnay"
+					"descricao": "A Chardonnay é uma variedade que tem sua origem na Borgonha, França. Os cachos e as bagas são pequenos. Apresenta bom potencial para produção de açúcar, porém conserva sua acidez. O vinho Chardonnay é potente, tem bom volume de boca e pode apresentar grande complexibilidade aromática. No Brasil, o Chardonnay é jovem e fresco, mas apresenta composição que favore a fermentação em barrica de carvalho. Sua característica pode ser diferente, dependendo do método de fermentação utilizado. Destina-se, também, à elaboração de champagnes, espumantes e vinhos licorosos. É um dos vinhos de maior aceitação no mercado." 
+					"Descritores aromáticos": "maçã, citrus, abacaxi, pêssego, melão e maracujá; baunilha e manteiga."
+				},
+				{
+					"nome": "Touriga Nacional"
+					"descricao": "Originária de Portugal, possui cachos e bagas de tamanho médio. É utilizada na elaboração dos vinhos do Porto de qualidade e, também, de vinhos não-licorosos. O vinho é complexo e potente, com bom corpo, boa estrutura fenólica, cor relativamente intensa, podendo ser envelhecida por longo tempo."
+					"Descritores aromáticos": "aroma frutado, principalmente, de cassis."
+				},
+				{
+					"nome": "Merlot"
+					"descricao": "É uma uva também originária da Região de Bordeaux. Possui cacho geralmente alado de tamanho médio e bagas pequenas. Quando elaborado com uva madura, seu vinho é redondo, aveludado, potente, rico em álcool e de coloração intensa. Devido à sua constituição fenólica, pode ser fermentado e amadurecido em barrica de carvalho. É um vinho que pode ser consumido puro ou cortado com outros vaietais, principalmente, com o Cabernet Sauvignon." 
+					"Descritores aromáticos": "os mais complexos lembram trufas e são frutados, com características de ameixa, cereja preta, framboesa e groselia."
+				},
+				{		
+					"nome": "Cabernet Sauvignon"
+					"descricao": "É uma antiga cultivar da região de Bordeaux, França, hoje plantada com sucesso em muitos países vitícolas. Atualmente é a vinífera tinta mais importante do Estado. É uma cultivar muito vigorosa e medianamente produtiva. Em vinhedos bem conduzidos  obtêm-se uvas aptas à elaboração de vinhos típicos, que podem  evoluir em qualidade com alguns anos de envelhecimento."
+					"Descritores aromáticos": "pimentão verde, violeta, amora, cassis, ameixa, coco, baunilha, couro, cacau e tabaco."
+				}
+    ]
+}
